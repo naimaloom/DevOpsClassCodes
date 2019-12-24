@@ -493,3 +493,10 @@
     </profiles>
 
 </project>
+<distributionManagement>
+    <repository>
+        <id>central</id>
+        <name>jfrog-releases</name>
+        <url>http://168.61.181.172:8081/artifactory/libs-release-local</url>
+    </repository>
+</distributionManagement>
